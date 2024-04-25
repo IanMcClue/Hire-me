@@ -204,7 +204,7 @@ export default function Home() {
                   </text>
                 </div>
                 <iframe
-                  src="https://docs.google.com/presentation/d/1MAA_6Hf9m6a-4yuoJgcvUN5nn2PEFINDAUxQqguQXwA/embed?start=false&loop=false&delayms=3000"
+                  src="https://docs.google.com/presentation/d/e/2PACX-1vQIEJQxO-f7dMnu7TavwdxNfCSpZ_pikZzcEm29UPk8MmWMceOaqFfNl2fMMZpXFCqeX3BCnesSwkey/pub?start=false&loop=false&delayms=30000"
                   width="70%"
                   height="500px"
                 ></iframe>
