@@ -225,56 +225,56 @@ export default function Home() {
 
                 <ul className="grid grid-cols-2 gap-4 list-none text-center">
                   <a
-                    href="https://twitter.com/alexdphan"
+                    href="https://www.instagram.com/neophlye.art/"
                     className="text-black hover:underline"
                   >
                     <li className="flex flex-col items-center justify-center bg-gray-100 p-3 border rounded-lg hover:bg-[#DAFF00] transition-colors border-opacity-50 shadow h-32 text-sm sm:text-md">
                       <span className="mb-2">
                         <Twitter />
                       </span>
-                      Twitter: alexdphan
+                      Instagram: Neophyle.art
                     </li>
                   </a>
                   <a
-                    href="https://www.linkedin.com/in/alexanderdphan/"
+                    href="https://www.linkedin.com/in/ian-mcclue/"
                     className="text-black hover:underline"
                   >
                     <li className="flex flex-col items-center justify-center bg-gray-100 p-3 border rounded-lg hover:bg-[#DAFF00] transition-colors border-opacity-50 shadow h-32 text-sm sm:text-md">
                       <span className="mb-2">
                         <Linkedin />
                       </span>
-                      LinkedIn: alexanderdphan
+                      LinkedIn: Ian McClue
                     </li>
                   </a>
                   <a
-                    href="https://www.alexdphan.com"
+                    href="https://www.imcclue.com"
                     className="text-black hover:underline"
                   >
                     <li className="flex flex-col items-center justify-center bg-gray-100 p-3 border rounded-lg hover:bg-[#DAFF00] transition-colors border-opacity-50 shadow h-32 text-sm sm:text-md">
                       <span className="mb-2 ">
                         <Globe />
                       </span>
-                      Personal Website: alexdphan.com
+                      Personal Website: imcclue.com
                     </li>
                   </a>
                   <a
-                    href="mailto:alexphan0515@gmail.com"
+                    href="mailto:ian@fiatluxlabs.co"
                     className="text-black hover:underline"
                   >
                     <li className="flex flex-col items-center justify-center bg-gray-100 p-3 border rounded-lg hover:bg-[#DAFF00] transition-colors border-opacity-50 shadow h-32 text-sm sm:text-md">
                       <span className="mb-2">
                         <Mail />
                       </span>
-                      Email: alexphan0515@gmail.com
+                      Email: ian@fiatluxlabs.co
                     </li>
                   </a>
                 </ul>
               </div>
               <div className="my-8 flex flex-col items-center justify-center">
                 <text className=" mx-auto mt-2 text-base font-medium text-black text-balance w-3/4 mb-5 text-center items-center justify-center">
-                  I saw Antimetal just started a{' '}
+                  I also run{' '}
                   <a
-                    href="https://x.com/shreyasaiyer/status/1782856266383003857"
+                    href=""
                     className="text-black hover:underline bg-[#DAFF00]"
                   >
                     running club
@@ -283,7 +283,7 @@ export default function Home() {
                 </text>
                 <ul className="grid grid-rows-1 grid-cols-1 gap-4 list-none text-center ">
                   <a
-                    href="https://strava.app.link/4FXd9r1E2Ib"
+                    href="https://www.nike.com/gb/nrc-app"
                     className="text-black hover:underline"
                   >
                     <li className="flex flex-col items-center justify-center bg-gray-100 p-3 border rounded-lg hover:bg-[#DAFF00] transition-colors border-opacity-50 shadow h-32 text-sm sm:text-md">
@@ -295,7 +295,7 @@ export default function Home() {
                           height={30}
                         />
                       </span>
-                      Strava: Alex Phan
+                      NRC Ian
                     </li>
                   </a>
                 </ul>
@@ -328,7 +328,7 @@ export default function Home() {
               </div>
               <div className="flex flex-col items-center justify-center">
                 <h1 className="text-4xl font-semibold tracking-tighter text-gray-900 mt-10 items-center justify-center text-center">
-                  Hope we chat soon!{' '}
+                  Lets talk sooner than later{' '}
                 </h1>
                 <text className=" mx-auto mt-2 text-base font-medium text-gray-500 text-balance w-3/4 text-center items-center justify-center">
                   Thanks for making it to the end.
@@ -336,18 +336,18 @@ export default function Home() {
               </div>
               <div className="my-8 flex flex-col items-center justify-center">
                 <text className=" mx-auto mt-4 text-base font-medium text-black text-balance w-3/4 mb-5 text-center items-center justify-center">
-                  Here is the Github repo for this website.
+                  You made it to the secret level.
                 </text>
                 <ul className="grid grid-rows-1 grid-cols-1 gap-4 list-none text-center">
                   <a
-                    href="https://github.com/alexdphan/why-hire-me-antimetal"
+                    href="https://fr99.xyz"
                     className="text-black hover:underline"
                   >
                     <li className="flex flex-col items-center justify-center text-blue-500 p-3 border rounded-lg hover:bg-[#DAFF00] transition-colors border-opacity-50 shadow h-32 text-sm sm:text-md">
                       <span className="mb-2">
                         <Github />
                       </span>
-                      Github: alexdphan/why-hire-me-antimetal
+                      Blog: ian-mcclue/where-share-my-thoughts
                     </li>
                   </a>
                 </ul>
