@@ -204,7 +204,7 @@ export default function Home() {
                   </text>
                 </div>
                 <iframe
-                  src="https://docs.google.com/presentation/d/e/2PACX-1vQIEJQxO-f7dMnu7TavwdxNfCSpZ_pikZzcEm29UPk8MmWMceOaqFfNl2fMMZpXFCqeX3BCnesSwkey/pub?start=false&loop=false&delayms=30000"
+                  src="https://docs.google.com/presentation/d/e/2PACX-1vQIEJQxO-f7dMnu7TavwdxNfCSpZ_pikZzcEm29UPk8MmWMceOaqFfNl2fMMZpXFCqeX3BCnesSwkey/embed?start=false&loop=false&delayms=3000""
                   width="70%"
                   height="500px"
                 ></iframe>
@@ -310,7 +310,7 @@ export default function Home() {
                   More info about me
                 </text>
                 <iframe
-                  src="https://drive.google.com/file/d/1ufJlFcS1cZtF4EhCMqvtrv0MPrlXDSBK/preview"
+                  src="https://docs.google.com/document/d/1_4BLr_5buWgUE4V16povMjTE2L97aKpezXw1TRGB310/edit?usp=sharing"
                   width="50%"
                   height="850px"
                 ></iframe>
