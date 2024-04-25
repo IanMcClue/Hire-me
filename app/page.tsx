@@ -61,32 +61,26 @@ export default function Home() {
                   <dl className="grid grid-cols-1 gap-6 mt-10 mb-10 lg:grid-cols-3 text-balance ">
                     <div>
                       <dt className="font-medium text-gray-900">
-                        I do the dirty work
+                        Veni
                       </dt>
                       <dd className="mt-2 text-sm text-gray-500">
-                        I&apos;m always to willing to put in the effort and make
-                        sure things are done well and efficiently (Ex: I made
-                        this whole thing in a day).
+                        I&apos;m a seasoned, high agency individual who has worked in fast-paced startup environments.
                       </dd>
                     </div>
                     <div>
                       <dt className="font-medium text-gray-900">
-                        I learn fast
+                        Vidi
                       </dt>
                       <dd className="mt-2 text-sm text-gray-500">
-                        I love dabbling in new developer tooling and building
-                        new projects. When I&apos;m not, I&apos;m either with
-                        friends, family, or focusing on my own health.
+                        What I don&apos;t know I will learn fast. “Intelligence is the ability to adapt to change.” S Hawking
                       </dd>
                     </div>
                     <div>
                       <dt className="font-medium text-gray-900">
-                        Jack of all trades
+                        Vici
                       </dt>
                       <dd className="mt-2 text-sm text-gray-500">
-                        I&apos;m both technical and can communicate well.
-                        I&apos;ve done sales and development work in the past,
-                        so I&apos;m well versed in both.
+                        I get sh*t done
                       </dd>
                     </div>
                   </dl>
@@ -119,7 +113,7 @@ export default function Home() {
 
                   <AccordionItem value="item-2">
                     <AccordionTrigger className="text-start">
-                      What are your strengths and weaknesses as a developer?
+                      What are your strengths and weaknesses as a Growth Engineer?{' '}
                     </AccordionTrigger>
                     <AccordionContent className="w-full text-start">
                       <p className="mb-4 text-start">
@@ -138,8 +132,7 @@ export default function Home() {
 
                   <AccordionItem value="item-3">
                     <AccordionTrigger className="text-start">
-                      How do you stay updated with the latest web development
-                      trends?
+                    What I bring to the team?
                     </AccordionTrigger>
                     <AccordionContent className="w-full text-start">
                       <p className="mb-4 text-start">
@@ -191,7 +184,7 @@ export default function Home() {
                     </AccordionContent>
                   </AccordionItem>
                   <AccordionItem value="item-6">
-                    <AccordionTrigger>When can you start?</AccordionTrigger>
+                    <AccordionTrigger>Why me?</AccordionTrigger>
                     <AccordionContent className="w-full">
                       <p className="mb-4 text-start">asap</p>
                     </AccordionContent>
@@ -203,11 +196,11 @@ export default function Home() {
               <div className="flex flex-col items-center justify-center">
                 <div className="flex flex-col items-center justify-center">
                   <h1 className="text-4xl font-semibold tracking-tighter text-gray-900 mt-6">
-                    Presentation
+                    Experience
                   </h1>
                   <text className=" mx-auto mt-4 text-base font-medium text-gray-500 text-balance w-3/4 mb-10 text-center items-center justify-center">
-                    I go over why I want to be an intern, my past, and
-                    suggestions on what I might do at Antimetal.
+                    I go over why I want to work at comp, my past, and
+                    suggestions on what I might do at comp.
                   </text>
                 </div>
                 <iframe
